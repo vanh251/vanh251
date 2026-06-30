@@ -30,12 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanh251&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="vanh251 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanh251&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
 ### 📫 Let's Connect
 - 📧 **Email:** nguyenvietanh0125@gmail.com
 - 📱 **Phone:** 0797522888
